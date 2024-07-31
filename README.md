@@ -6,4 +6,4 @@ Here we explored the Quora QA dataset, cleaned and found interesting topics. We 
 
 libs: nlpaug, matplotlib, numpy, huggingface, pytorch, gensim, nltk, spacy
 
-open analysis/quora-qa.ipynb
+open [analysis/quora-qa.ipynb](https://github.com/willtryagain/QuoraQA-Transformers/blob/main/analysis/quora-qa.ipynb)
